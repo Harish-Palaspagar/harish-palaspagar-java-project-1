@@ -27,7 +27,7 @@ To set up the Employee Management System on your local machine, follow these ste
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Harish-Palaspagar/employee-management-application
+   git clone (https://github.com/Harish-Palaspagar/harish-palaspagar-java-project-1.git)
    ```
 2. **Navigate to the Project Directory**:
    ```bash
