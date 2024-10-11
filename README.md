@@ -41,11 +41,7 @@ To set up the Employee Management System on your local machine, follow these ste
    ```bash
    mvn spring-boot:run
    ```
-5. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Harish-Palaspagar/employee-management-application
-   ```
-   
+
 6. **Sample `application.properties` Configuration**:
 
 Below is the configuration for the `application.properties` file for this project. Ensure that you replace the placeholder values (like `your_username` and `your_password`) with actual values relevant to your environment.
